@@ -24,14 +24,14 @@ SpeakIT은 사용자의 언어 학습 경험을 향상시키기 위해 설계된
  - UIBottomBar.cs: 하단 바의 UI 요소들을 제어하고 상태를 업데이트합니다.
  - UIPopup_Tweener.cs: 팝업 애니메이션을 관리하여 팝업을 부드럽게 표시하고 닫는 기능을 구현합니다.
  - Popup 폴더: 다양한 팝업 창을 관리하는 스크립트들로 구성되어 있습니다.
- - UIPopup_Onboarding.cs: 사용자가 처음 앱을 사용할 때 표시되는 온보딩 팝업을 관리합니다.
- - UIPopup_Error.cs: 오류 발생 시 표시되는 팝업을 관리합니다.
- - UIPopup_Settings.cs: 설정 화면을 팝업 형태로 제공하며 설정 내용을 관리합니다.
- - UIPopup_EpisodeList.cs: 에피소드 목록을 팝업 형태로 제공하고 이를 관리합니다.
- - UIPopup_Home.cs: 홈 화면의 팝업을 관리하며, 메인 인터페이스의 일부로 동작합니다.
+  - UIPopup_Onboarding.cs: 사용자가 처음 앱을 사용할 때 표시되는 온보딩 팝업을 관리합니다.
+  - UIPopup_Error.cs: 오류 발생 시 표시되는 팝업을 관리합니다.
+  - UIPopup_Settings.cs: 설정 화면을 팝업 형태로 제공하며 설정 내용을 관리합니다.
+  - UIPopup_EpisodeList.cs: 에피소드 목록을 팝업 형태로 제공하고 이를 관리합니다.
+  - UIPopup_Home.cs: 홈 화면의 팝업을 관리하며, 메인 인터페이스의 일부로 동작합니다.
  - Item 폴더: UI 아이템들을 관리하는 스크립트들로 구성되어 있습니다.
- - FAQItem.cs: 자주 묻는 질문(FAQ) 항목을 관리합니다.
- - CardEpisode.cs: 에피소드 카드를 UI에서 관리하고 업데이트하는 기능을 제공합니다.
+  - FAQItem.cs: 자주 묻는 질문(FAQ) 항목을 관리합니다.
+  - CardEpisode.cs: 에피소드 카드를 UI에서 관리하고 업데이트하는 기능을 제공합니다.
 
 3. Utils 폴더
  - PermissionCheck.cs: 앱 사용 중 필요한 권한을 확인하고 요청하는 기능을 제공합니다.
